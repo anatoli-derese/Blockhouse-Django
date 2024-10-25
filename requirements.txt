@@ -1,0 +1,12 @@
+django
+tensorflow
+keras
+django_db
+requests
+scikit-learn
+psycopg2-binary
+django-environ
+pandas
+numpy
+matplotlib
+reportlab
